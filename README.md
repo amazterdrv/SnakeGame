@@ -1,4 +1,6 @@
 # SnakeGame
 A basic Snake Game made using p5.js
-To play this game 
+<br/>
+To play this game
+<br/>
 <a href = "https://amazterdrv.github.io/SnakeGame">Click here</a>
